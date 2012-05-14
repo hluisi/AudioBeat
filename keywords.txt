@@ -1,0 +1,46 @@
+#######################################
+# Syntax Coloring Map For Test
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+AudioBeat	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setPIN	KEYWORD2
+setCorrectionLimit	KEYWORD2
+setHighNoiseLimit	KEYWORD2
+setLowNoiseLimit	KEYWORD2
+setHighNoiseThreshold	KEYWORD2
+setLowNoiseThreshold	KEYWORD2
+setHighNoiseReset	KEYWORD2
+setLowNoiseReset	KEYWORD2
+readInput	KEYWORD2
+
+######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+#######################################
+# Built-in variables (LITERAL2)
+#######################################
+HIGH_NOISE_COUNT	LITERAL2
+LOW_NOISE_COUNT	LITERAL2
+CORRECTION_COUNT	LITERAL2
+RAW	LITERAL2
+SAMPLE	LITERAL2
+MIN	LITERAL2
+MAX	LITERAL2
+RANGE	LITERAL2
+MIDDLE	LITERAL2
+LEVEL	LITERAL2
+VOLUME	LITERAL2
